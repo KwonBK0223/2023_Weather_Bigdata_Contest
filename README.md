@@ -1,1 +1,1 @@
-# Weather_Bigdata_Contest
+# 2023 기상청 빅데이터 콘테스트
